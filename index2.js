@@ -10,5 +10,5 @@ function verificarAprobacion(nota1,nota2,nota3){
     let nota2= 75;
     let nota3= 85;
     
-    const resultado = verificarAprobacion(nota1, nota2, nota30);
+    const resultado = verificarAprobacion(nota1, nota2, nota3);
     console.log(resultado);
